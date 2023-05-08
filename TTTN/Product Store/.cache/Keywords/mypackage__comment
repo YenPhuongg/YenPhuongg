@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "10B25C9A8A356E5BD30BC334F6301506",
+  "keywordClasses": [
+    {
+      "name": "mypackage.comment",
+      "keywordMethods": [
+        {
+          "name": "BinhLuan",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

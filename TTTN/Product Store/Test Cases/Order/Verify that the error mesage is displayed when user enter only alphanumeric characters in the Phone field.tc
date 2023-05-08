@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that the error mesage is displayed when user enter only alphanumeric characters in the Phone field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca81f8ba-962d-4b64-ab20-dfd8728ac54f</testCaseGuid>
+</TestCaseEntity>

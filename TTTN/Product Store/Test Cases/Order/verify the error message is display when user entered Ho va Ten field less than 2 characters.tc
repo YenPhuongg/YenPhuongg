@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify the error message is display when user entered Ho va Ten field less than 2 characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b17e27cf-1bb2-40f4-b0d2-531eb84a95d0</testCaseGuid>
+</TestCaseEntity>

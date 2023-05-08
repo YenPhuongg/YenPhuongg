@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify that user is able open successfully the register screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e72d35d0-4bfc-41ab-827a-444e78e889a3</testCaseGuid>
+</TestCaseEntity>

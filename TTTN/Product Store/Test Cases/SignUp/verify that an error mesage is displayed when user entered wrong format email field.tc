@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify that an error mesage is displayed when user entered wrong format email field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe79a1b4-b960-4306-b6bc-f8595bc965c3</testCaseGuid>
+</TestCaseEntity>

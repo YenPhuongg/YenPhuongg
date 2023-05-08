@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "998A552E4E7EF98BB28CB0072A036E6D",
+  "keywordClasses": [
+    {
+      "name": "mypackage.loginsuccessfully",
+      "keywordMethods": [
+        {
+          "name": "LoginSuccessfully",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

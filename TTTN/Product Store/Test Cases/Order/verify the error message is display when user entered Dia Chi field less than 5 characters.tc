@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify the error message is display when user entered Dia Chi field less than 5 characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>806c20db-59df-4a5c-8f15-b56479d775ac</testCaseGuid>
+</TestCaseEntity>

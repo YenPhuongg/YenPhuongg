@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that the Thanh Toán page is displayed when user click on Mua Ngay button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>11327487-a878-4f77-a7b6-e182263f65b5</testCaseGuid>
+</TestCaseEntity>

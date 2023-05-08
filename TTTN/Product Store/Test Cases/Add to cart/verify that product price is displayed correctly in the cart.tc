@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify that product price is displayed correctly in the cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab6858c4-08da-43aa-a22e-4124b643f877</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f0303eac-ed9e-4b95-b1ac-ce3e19af2fce</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>08a27bab-78b6-432a-b220-e1b87b8a9734</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Add to cart/gia')</defaultValue>
+      <description></description>
+      <id>f0303eac-ed9e-4b95-b1ac-ce3e19af2fce</id>
+      <masked>false</masked>
+      <name>a</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Add to cart/tamtinh')</defaultValue>
+      <description></description>
+      <id>08a27bab-78b6-432a-b220-e1b87b8a9734</id>
+      <masked>false</masked>
+      <name>b</name>
+   </variable>
+</TestCaseEntity>

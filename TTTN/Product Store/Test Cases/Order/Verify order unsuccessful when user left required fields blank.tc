@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify order unsuccessful when user left required fields blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75fd234f-2791-4559-9bba-6b8cc3736be0</testCaseGuid>
+</TestCaseEntity>

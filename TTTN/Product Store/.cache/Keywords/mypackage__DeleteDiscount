@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "E914F4203ADAA9DBFAE2A33714B6FF2C",
+  "keywordClasses": [
+    {
+      "name": "mypackage.DeleteDiscount",
+      "keywordMethods": [
+        {
+          "name": "XoaDiscount",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

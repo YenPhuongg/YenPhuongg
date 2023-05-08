@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Loginwith5tk</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>85f9728a-a672-4bc1-b646-37469eb44c86</testSuiteGuid>
+   <testCaseLink>
+      <guid>d5c6b579-a023-443f-b47e-4109a458cf17</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/verify login successful when user fills all field with registered email1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c39a29e9-8791-456a-947e-32d9f3b9a184</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>c39a29e9-8791-456a-947e-32d9f3b9a184</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>0d008b2b-1da1-477b-981d-a42a77fb7540</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c39a29e9-8791-456a-947e-32d9f3b9a184</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>c18e86a3-db56-4de4-8263-8eb3d159965d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

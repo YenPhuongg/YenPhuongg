@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "37DE187587E99F8219AC297B744748D9",
+  "keywordClasses": [
+    {
+      "name": "demo.xemgiohang",
+      "keywordMethods": [
+        {
+          "name": "addtocart",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

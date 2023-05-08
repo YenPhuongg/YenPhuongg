@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify login successful when user fills all field with registered email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d245f59-4799-4bec-b1c6-10e5108459ca</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d567f6ba-2674-4db1-b99b-32205c90068c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05a99ab0-ed22-4222-a758-ffa80dfcb922</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('DataUser').getValue('Email', 1)</defaultValue>
+      <description></description>
+      <id>d567f6ba-2674-4db1-b99b-32205c90068c</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('DataUser').getValue('Password', 1)</defaultValue>
+      <description></description>
+      <id>05a99ab0-ed22-4222-a758-ffa80dfcb922</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "3809EB73C1044494BA7BA5C1C82EB3CC",
+  "keywordClasses": [
+    {
+      "name": "mypackage.giohang",
+      "keywordMethods": [
+        {
+          "name": "cart",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

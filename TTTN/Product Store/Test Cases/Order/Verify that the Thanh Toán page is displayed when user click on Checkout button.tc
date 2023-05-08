@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that the Thanh Toán page is displayed when user click on Checkout button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0d3c147-7097-4658-b918-62b5b732bd5c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "B339C13EE3BA51BE79FC9B55B02609FE",
+  "keywordClasses": [
+    {
+      "name": "mypackage.xemgiohang",
+      "keywordMethods": [
+        {
+          "name": "addtocart",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that user is able to comment when login successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6fc5f8f-9156-40fb-8156-d85c7846d7eb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "98D08C0D56FA626536662E81C46E654D",
+  "keywordClasses": [
+    {
+      "name": "mypackage.ThanhToanPage",
+      "keywordMethods": [
+        {
+          "name": "ThanhToan",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

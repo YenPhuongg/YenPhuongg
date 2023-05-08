@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify that user is able to search when entering the numeric value in the text box</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a84ed3ef-5278-49bc-a61c-d180b054b59b</testCaseGuid>
+</TestCaseEntity>

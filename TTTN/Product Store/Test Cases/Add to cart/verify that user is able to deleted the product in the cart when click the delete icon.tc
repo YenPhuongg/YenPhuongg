@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify that user is able to deleted the product in the cart when click the delete icon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d778e6c3-3a8f-4412-992b-d67b01c3f655</testCaseGuid>
+</TestCaseEntity>

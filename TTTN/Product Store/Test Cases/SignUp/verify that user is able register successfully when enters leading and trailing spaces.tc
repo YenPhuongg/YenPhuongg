@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify that user is able register successfully when enters leading and trailing spaces</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc89e933-297d-450d-bbc3-a03902f4a084</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e2adcbae-d4a4-4652-8389-365a171404e3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3d3a3381-4c44-4ced-aec5-2b0c7b57b7af</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>21f68f54-0007-4113-bdc3-6d79be012e52</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('DataUser').getValue('Email', 10)</defaultValue>
+      <description></description>
+      <id>e2adcbae-d4a4-4652-8389-365a171404e3</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('DataUser').getValue('Password', 10)</defaultValue>
+      <description></description>
+      <id>3d3a3381-4c44-4ced-aec5-2b0c7b57b7af</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('DataUser').getValue('Confirm Password', 10)</defaultValue>
+      <description></description>
+      <id>21f68f54-0007-4113-bdc3-6d79be012e52</id>
+      <masked>false</masked>
+      <name>confirmPass</name>
+   </variable>
+</TestCaseEntity>

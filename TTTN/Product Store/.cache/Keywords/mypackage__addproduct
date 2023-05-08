@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "532867761F7122525F38D6E7C72D9244",
+  "keywordClasses": [
+    {
+      "name": "mypackage.addproduct",
+      "keywordMethods": [
+        {
+          "name": "addtocart",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

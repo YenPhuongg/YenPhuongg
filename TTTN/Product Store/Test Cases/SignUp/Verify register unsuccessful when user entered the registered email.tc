@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify register unsuccessful when user entered the registered email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32b6caef-3cfa-4ffa-b62b-537b20209f3f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ed92bde8-d829-42a6-afe8-902d609adff4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9df38b41-e63d-46e9-adf4-ff0f96c0c96b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0662304b-c773-4d09-a274-67d9a8a25e97</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('DataUser').getValue('Email', 1)</defaultValue>
+      <description></description>
+      <id>ed92bde8-d829-42a6-afe8-902d609adff4</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('DataUser').getValue('Password', 2)</defaultValue>
+      <description></description>
+      <id>9df38b41-e63d-46e9-adf4-ff0f96c0c96b</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('DataUser').getValue('Confirm Password', 2)</defaultValue>
+      <description></description>
+      <id>0662304b-c773-4d09-a274-67d9a8a25e97</id>
+      <masked>false</masked>
+      <name>confirmPass</name>
+   </variable>
+</TestCaseEntity>

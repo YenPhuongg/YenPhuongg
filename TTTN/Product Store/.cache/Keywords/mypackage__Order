@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "87395F166B54D427A32A64DD4C0532E8",
+  "keywordClasses": [
+    {
+      "name": "mypackage.Order",
+      "keywordMethods": [
+        {
+          "name": "DatHang",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

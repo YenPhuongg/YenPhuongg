@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User enter the required fields and left optional field blank, did not click the placeholder button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d07afb3b-38bf-4415-892a-611910fc2adb</testCaseGuid>
+</TestCaseEntity>

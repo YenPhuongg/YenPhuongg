@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify ordered successful when user enter the required fields and left optional field blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50cece13-4257-4cb3-816d-611e28f52ced</testCaseGuid>
+</TestCaseEntity>
